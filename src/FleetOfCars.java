@@ -24,7 +24,7 @@ public class FleetOfCars
     @Override
     public String toString()
     {
-        String str = "FleetOfCars:\n- Total registrations fee: " + getTotalRegistrationFeeForFleet() + "\n\n";
+        String str = "FleetOfCars:\n\n";
 
         int i = 0;
         for (Car c : fleet)

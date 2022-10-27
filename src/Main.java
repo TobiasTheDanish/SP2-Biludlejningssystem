@@ -12,5 +12,7 @@ public class Main
         fleet.addCar(new GasolinCar("ÅØ 98765", "Land Rover", "Range Rover", 2, 5));
 
         System.out.println(fleet);
+
+        System.out.println("- Total registration fee: " + fleet.getTotalRegistrationFeeForFleet());
     }
 }

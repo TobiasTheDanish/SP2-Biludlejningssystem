@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31ad96e1-d8bf-4788-9d4c-d925c2ca9393" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ACar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AFuelCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DieselCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ElectricCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FleetOfCars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GasolinCar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FleetOfCars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FleetOfCars.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
